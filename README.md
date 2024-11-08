@@ -5,7 +5,5 @@ Assignment-3_https://github.com/V-Sreshta/V.Sreshta-2203A51655/blob/main/NLP_Ass
 Assignment_4_https://github.com/V-Sreshta/V.Sreshta-2203A51655/blob/main/ASSIGNMENT_4_NLP.ipynb
 Assignment_6_https://github.com/V-Sreshta/V.Sreshta-2203A51655
 Assignment_10_https://github.com/V-Sreshta/V.Sreshta-2203A51655
-Assignment_8_https://github.com/V-Sreshta/V.Sreshta-2203A51655
-Assignment_9_https://github.com/V-Sreshta/V.Sreshta-2203A51655
 Assignment_7_https://github.com/V-Sreshta/V.Sreshta-2203A51655
 Assignment_9_https://github.com/V-Sreshta/V.Sreshta-2203A51655
